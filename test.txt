@@ -1,4 +1,0 @@
-This is a test file
-This is second change
-Third change
-Fourth change 
